@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Smooth (Official Video)",
+  "base_artist": "Santana",
+  "createdAt": "2026-02-10T02:57:36.741101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smooth Chick",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/01_Smooth_Chick_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smooth Flow",
+      "artist": "Neil Cicierega",
+      "has_synced": false,
+      "path": "select/02_Smooth_Flow_Neil_Cicierega.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smooth Operator (Single Version)",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/03_Smooth_Operator_(Single_Version)_Sade.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smooth Sailing",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/04_Smooth_Sailing_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Our Generation (The Hope Of The World) (Feat. CL Smooth)",
+      "artist": "John Legend & The Roots",
+      "has_synced": false,
+      "path": "select/05_Our_Generation_(The_Hope_Of_The_World)_(Feat._CL_Smooth)_John_Legend_&_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smooth Day (At The Library)",
+      "artist": "Lightspeed Champion",
+      "has_synced": false,
+      "path": "select/06_Smooth_Day_(At_The_Library)_Lightspeed_Champion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Smooth Operator",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/08_Smooth_Operator_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B-Boys 'n' Fly Girls (Jori Hulkkonen Deep 'n' Smooth Remix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/09_B-Boys_'n'_Fly_Girls_(Jori_Hulkkonen_Deep_'n'_Smooth_Remix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Smooth Remix)",
+      "artist": "Matrix & Futurebound feat. Baby Blue",
+      "has_synced": true,
+      "path": "select/10_Magnetic_Eyes_(Smooth_Remix)_Matrix_&_Futurebound_feat._Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Smooth Remix)",
+      "artist": "Matrix & Futurebound Baby Blue",
+      "has_synced": true,
+      "path": "select/11_Magnetic_Eyes_(Smooth_Remix)_Matrix_&_Futurebound_Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Extra Smooth",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/12_Extra_Smooth_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Night Train (Smooth Alligator)",
+      "artist": "Lionel Richie",
+      "has_synced": false,
+      "path": "select/13_Night_Train_(Smooth_Alligator)_Lionel_Richie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smooth & Sweet",
+      "artist": "Ann Lee",
+      "has_synced": false,
+      "path": "select/14_Smooth_&_Sweet_Ann_Lee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Another Day - Smooth Remix",
+      "artist": "Modestep & Popeska",
+      "has_synced": true,
+      "path": "select/15_Another_Day_-_Smooth_Remix_Modestep_&_Popeska.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Smooth Operator",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/16_Smooth_Operator_Sade.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Smooth Operator",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/17_Smooth_Operator_Sade.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smooth",
+      "artist": "Santana",
+      "has_synced": false,
+      "path": "select/pl_01_Smooth_Santana.txt"
+    }
+  ]
+}
